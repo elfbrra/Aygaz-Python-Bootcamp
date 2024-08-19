@@ -9,9 +9,14 @@
 
 #Projede Kullanılanlar
 -Değişkenler
+
 -Koşul Yapıları (If-Elif-Else)
+
 -Döngüler(While)
+
 -Rastegele Sayılar
+
 -Fonksiyonlar
+
 -PyCharm ortamında geliştirilmiştir.
 
